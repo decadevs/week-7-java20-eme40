@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "title": "Effective Java",
+      "author": "Joshua Bloch",
+      "publicationYear": 2008
+    },
+    {
+      "title": "Java: The Complete Reference",
+      "author": "Herbert Schildt",
+      "publicationYear": 2018
+    },
+    {
+      "title": "Head First Java",
+      "author": "Kathy Sierra, Bert Bates",
+      "publicationYear": 2005
+    },
+    {
+      "title": "Thinking in Java",
+      "author": "Bruce Eckel",
+      "publicationYear": 2006
+    },
+    {
+      "title": "Java Concurrency in Practice",
+      "author": "Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea",
+      "publicationYear": 2006
+    }
+  ]
+}
